@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:gold_nugget"
+  },
+  "result": "voidmod:crypto_coin",
+  "experience": 10.0,
+  "cookingtime": 100
+}

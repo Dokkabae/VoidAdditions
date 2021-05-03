@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "ccc",
+    "cgc",
+    "ccc"
+  ],
+  "key":
+  {
+    "c":
+    {
+      "item": "voidmod:raw_void"
+    },
+    "g":
+    {
+      "item": "minecraft:purple_dye"
+    }
+  },
+  "result":
+  {
+    "item": "voidmod:void_block",
+    "count": 1
+  }
+}

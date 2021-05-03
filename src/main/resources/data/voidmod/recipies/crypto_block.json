@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+          [
+            "ccc",
+            "cgc",
+            "ccc"
+          ],
+  "key":
+  {
+    "c":
+    {
+      "item": "voidmod:crypto_coin"
+    },
+    "g":
+    {
+      "item": "minecraft:gold_nugget"
+    }
+  },
+  "result":
+  {
+    "item": "voidmod:crypto_block",
+    "count": 1
+  }
+}

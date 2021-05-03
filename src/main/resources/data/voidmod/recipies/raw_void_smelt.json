@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:black_dye"
+  },
+  "result": "voidmod:raw_void",
+  "experience": 10.0,
+  "cookingtime": 300
+}

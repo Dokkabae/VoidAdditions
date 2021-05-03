@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model":  "voidadditions:block/crypto_block"}
+  }
+}
